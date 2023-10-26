@@ -1,0 +1,22 @@
+{
+	"Biskuit": {
+		"stock": 50,
+		"price": 6000
+	},
+	"Chips": {
+		"stock": 50,
+		"price": 8000
+	},
+	"Oreo": {
+		"stock": 50,
+		"price": 10000
+	},
+	"Tango": {
+		"stock": 50,
+		"price": 12000
+	},
+	"Cokelat": {
+		"stock": 50,
+		"price": 15000
+	}
+}

@@ -1,0 +1,8 @@
+- Jalankan `yarn install` atau `npm install` untuk mengunduh beberapa library.
+- Jalankan script `yarn vending --help` atau `npm run vending --help` untuk melihat parameter.
+- Pada saat program dijalankan, maka produk akan muncul harga dan stok nya.
+- Untuk menjalankan program silahkan berikan parameter pada script.
+- Contoh:
+  - `yarn vending 10000` untuk membeli `Biskuit` dengan uang yang dimasukkan adalah 10000.
+  - `yarn vending 10000 -s Oreo` untuk membeli `Biskuit` dengan uang yang dimasukkan adalah 10000.
+  - `yarn vending 10000 -s Silverqueen` akan muncul error, karena silverqueen tidak terdaftar sebagai barang di vending mesin.

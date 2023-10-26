@@ -1,0 +1,23 @@
+{
+  "name": "inspirotest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "vending": "ts-node vending.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "D": "^1.0.0",
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.9",
+    "commander": "^11.1.0",
+    "typescript": "^5.2.2"
+  }
+}
